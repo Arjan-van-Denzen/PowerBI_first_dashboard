@@ -1,3 +1,1 @@
-# PowerBI-Test-1
-A second test, now without a README file because maybe that was why I couldn't push.
-README added after the push: the push worked!
+This is one of my first Power BI dashboards. It contains no interesting information but it showcases that at the time (2023) I could use the most basic Power BI functionalities successfully.
